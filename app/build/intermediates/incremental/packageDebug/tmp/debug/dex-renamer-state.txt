@@ -1,4 +1,4 @@
-#Wed Aug 31 07:45:20 CDT 2022
+#Wed Aug 31 07:47:27 CDT 2022
 base.2=C\:\\Users\\USER\\AndroidStudioProjects\\my_andiod_projects\\My_Design_UI\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
 path.2=10/classes.dex
 base.1=C\:\\Users\\USER\\AndroidStudioProjects\\my_andiod_projects\\My_Design_UI\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
