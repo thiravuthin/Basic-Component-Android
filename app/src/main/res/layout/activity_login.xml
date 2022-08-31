@@ -107,10 +107,11 @@
                 android:textStyle="bold" />
 
             <RelativeLayout
-                android:layout_margin="15dp"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_below="@id/txtSignup">
+                android:layout_below="@id/txtSignup"
+                android:layout_margin="15dp"
+                >
 
                 <ImageButton
                     android:id="@+id/btnSwing"

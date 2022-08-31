@@ -4,12 +4,12 @@
         "source": "com.example.designui.app-main-31:/layout/activity_login.xml"
     },
     {
-        "merged": "com.example.designui.app-merged_res-29:/drawable-v24_facebook.png.flat",
-        "source": "com.example.designui.app-main-31:/drawable-v24/facebook.png"
-    },
-    {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-29:\\layout_activity_login.xml.flat",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-31:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-29:\\drawable-v24_facebook.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-31:\\drawable-v24\\facebook.png"
     },
     {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-29:\\drawable_ic_password_lock_24.xml.flat",
@@ -36,6 +36,10 @@
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-31:\\drawable\\ic_user_edittext_24.xml"
     },
     {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-29:\\drawable-v24_ic_icons8_twitter_circled.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-31:\\drawable-v24\\ic_icons8_twitter_circled.xml"
+    },
+    {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
     },
@@ -60,20 +64,8 @@
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.designui.app-merged_res-29:/drawable_ic_password_lock_24.xml.flat",
-        "source": "com.example.designui.app-main-31:/drawable/ic_password_lock_24.xml"
-    },
-    {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.designui.app-merged_res-29:/drawable-v24_ic_icons8_twitter_circled.xml.flat",
-        "source": "com.example.designui.app-main-31:/drawable-v24/ic_icons8_twitter_circled.xml"
-    },
-    {
-        "merged": "com.example.designui.app-merged_res-29:/drawable-v24_google.png.flat",
-        "source": "com.example.designui.app-main-31:/drawable-v24/google.png"
     },
     {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
@@ -92,12 +84,12 @@
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-31:\\layout\\activity_linearlayout.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-29:\\drawable_custom_layout_shape.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-31:\\drawable\\custom_layout_shape.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-29:\\drawable-v24_google.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-31:\\drawable-v24\\google.png"
     },
     {
-        "merged": "com.example.designui.app-merged_res-29:/drawable_ic_user_edittext_24.xml.flat",
-        "source": "com.example.designui.app-main-31:/drawable/ic_user_edittext_24.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-29:\\drawable_custom_layout_shape.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-31:\\drawable\\custom_layout_shape.xml"
     },
     {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
