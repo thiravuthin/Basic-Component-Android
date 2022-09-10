@@ -14,16 +14,44 @@
         android:theme="@style/Theme.DesignUI"
         tools:targetApi="31">
         <activity
-            android:name=".LoginActivity"
-            android:exported="true">
+            android:name=".PracticeActivity"
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
         </activity>
         <activity
+            android:name=".EditextActivity"
+            android:exported="true">
+
+        </activity>
+        <activity
+            android:name=".Method1Activity"
+            android:exported="true"></activity>
+        <activity
+            android:name=".ScrollviewActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Constrain2Activity"
+            android:exported="true" />
+        <activity
+            android:name=".TitokConstrainlayoutActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ConstraintLayoutActivity"
+            android:exported="true" />
+        <activity
+            android:name=".FramLayoutActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
-            android:exported="false"></activity>
+            android:exported="false" />
     </application>
 
 </manifest>
