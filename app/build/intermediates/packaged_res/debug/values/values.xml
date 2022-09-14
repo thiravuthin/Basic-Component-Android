@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="countries">
+        <item>Cambodia</item>
+        <item>Thailand</item>
+        <item>Myanmar</item>
+        <item>Malaysia</item>
+        <item>Canada</item>
+        <item>USA</item>
+    </string-array>
     <color name="black">#FF000000</color>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
@@ -7,11 +15,11 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
+    <string name="Select_countries">Select</string>
     <string name="app_name">Design UI</string>
     <string name="scrollView">
      My Heart Will Go On" is a song recorded by Canadian singer Celine Dion. The song serves as the main soundtrack to James Cameron's blockbuster film Titanic, based on an account of the transatlantic ocean liner of the same name which sank in 1912 after colliding with an iceberg in the North Atlantic Ocean. The song's music was composed by James Horner, its lyrics were written by Will Jennings, while the production was handled by Walter Afanasieff, Horner and Simon Franglen.[1][2]
      Released as a single on November 24, 1997, from Dion's fifth English-language studio album, Let's Talk About Love (1997), and the film's soundtrack, the love power ballad peaked at the top of the RPM Top Singles Chart. Outside Canada, "My Heart Will Go On" became a global hit, topping the charts in over twenty countries, including Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Italy, the Netherlands, Norway, the Republic of Ireland, Spain, Sweden, Switzerland, the United Kingdom, and the United States
-
     </string>
     <style name="Theme.DesignUI" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         

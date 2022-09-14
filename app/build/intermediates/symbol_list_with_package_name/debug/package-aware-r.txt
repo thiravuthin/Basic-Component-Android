@@ -63,6 +63,7 @@ animator mtrl_fab_hide_motion_spec
 animator mtrl_fab_show_motion_spec
 animator mtrl_fab_transformation_sheet_collapse_spec
 animator mtrl_fab_transformation_sheet_expand_spec
+array countries
 attr SharedValue
 attr SharedValueId
 attr actionBarDivider
@@ -2475,6 +2476,7 @@ drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_password_lock_24
 drawable ic_user_edittext_24
+drawable ic_vuthin
 drawable m3_appbar_background
 drawable m3_popupmenu_background_overlay
 drawable m3_radiobutton_ripple
@@ -2626,6 +2628,8 @@ id btnLogin
 id btnSum
 id btnSwing
 id button
+id button1
+id button2
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -2707,6 +2711,7 @@ id easeInOut
 id easeOut
 id east
 id editText
+id editText1
 id editText2
 id editText3
 id editText4
@@ -2743,6 +2748,7 @@ id frost
 id fullscreen_header
 id ghost_view
 id ghost_view_holder
+id glide_custom_view_target_tag
 id gone
 id graph
 id graph_wrap
@@ -2778,6 +2784,7 @@ id imageView
 id imageView4
 id imageView5
 id imageView8
+id img1
 id immediateStop
 id included
 id info
@@ -2937,6 +2944,7 @@ id sin
 id skipCollapsed
 id skipped
 id slide
+id sn_id
 id snackbar_action
 id snackbar_text
 id snap
@@ -2944,6 +2952,7 @@ id snapMargins
 id south
 id spacer
 id special_effects_controller_view_tag
+id spinner2
 id spline
 id split_action_bar
 id spread
@@ -3164,14 +3173,18 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_constrain2
 layout activity_constraint_layout
+layout activity_date_time_picker
 layout activity_editext
 layout activity_fram_layout
+layout activity_image_view
 layout activity_linearlayout
 layout activity_login
 layout activity_method1
 layout activity_practice
 layout activity_relativelayout
 layout activity_scrollview
+layout activity_spinner
+layout activity_spinner2
 layout activity_titok_constrainlayout
 layout custom_dialog
 layout design_bottom_navigation_item
@@ -3267,6 +3280,7 @@ layout text_view_without_line_height
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
+string Select_countries
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description

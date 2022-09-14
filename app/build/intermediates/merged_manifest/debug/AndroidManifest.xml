@@ -8,6 +8,8 @@
         android:minSdkVersion="21"
         android:targetSdkVersion="32" />
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -21,7 +23,7 @@
         android:testOnly="true"
         android:theme="@style/Theme.DesignUI" >
         <activity
-            android:name="com.example.designui.PracticeActivity"
+            android:name="com.example.designui.ImageViewActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -30,9 +32,21 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.designui.EditextActivity"
+            android:name="com.example.designui.DateTimePickerActivity"
             android:exported="true" >
         </activity>
+        <activity
+            android:name="com.example.designui.SpinnerActivity2"
+            android:exported="true" />
+        <activity
+            android:name="com.example.designui.SpinnerActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.designui.PracticeActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.designui.EditextActivity"
+            android:exported="true" />
         <activity
             android:name="com.example.designui.Method1Activity"
             android:exported="true" />
