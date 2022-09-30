@@ -5,20 +5,37 @@
       <map>
         <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/drawable/ic_password_lock_24.xml" value="0.1545" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/drawable/ic_user_edittext_24.xml" value="0.157" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/drawable/my_custom_selector.xml" value="0.128" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/drawable/my_custom_shape.xml" value="0.128" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_animation.xml" value="0.20633299284984677" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_chip.xml" value="0.264" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_constrain2.xml" value="0.4" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_constraint_layout.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_context_menu.xml" value="0.1921875" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_date_time_picker.xml" value="0.264" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_editext.xml" value="0.264" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_fram_layout.xml" value="0.264" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_image_view.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_intent.xml" value="0.21666666666666667" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_main2.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_menu_option.xml" value="0.21041666666666667" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_method1.xml" value="0.16" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_option_menu.xml" value="0.21041666666666667" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_practice.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_proadcastresiver.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_radio_button.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_receiver.xml" value="0.264" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_scrollview.xml" value="0.23248259860788864" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_shape1.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_shape1_demo.xml" value="0.215625" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_spinner.xml" value="0.264" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_spinner2.xml" value="0.21666666666666667" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_titok_constrainlayout.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/activity_trigger.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/content_menu_option.xml" value="0.21041666666666667" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/layout/mycustom_simpl_list.xml" value="0.10494450050454086" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/my_andiod_projects/My_Design_UI/app/src/main/res/menu/menu_option.xml" value="0.21041666666666667" />
         <entry key="..\:/src/flutter/flutter/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.10494450050454086" />
       </map>
     </option>

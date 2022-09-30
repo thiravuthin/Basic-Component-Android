@@ -15,13 +15,32 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
+    <dimen name="fab_margin">16dp</dimen>
     <string name="Select_countries">Select</string>
     <string name="app_name">Design UI</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
     <string name="scrollView">
      My Heart Will Go On" is a song recorded by Canadian singer Celine Dion. The song serves as the main soundtrack to James Cameron's blockbuster film Titanic, based on an account of the transatlantic ocean liner of the same name which sank in 1912 after colliding with an iceberg in the North Atlantic Ocean. The song's music was composed by James Horner, its lyrics were written by Will Jennings, while the production was handled by Walter Afanasieff, Horner and Simon Franglen.[1][2]
      Released as a single on November 24, 1997, from Dion's fifth English-language studio album, Let's Talk About Love (1997), and the film's soundtrack, the love power ballad peaked at the top of the RPM Top Singles Chart. Outside Canada, "My Heart Will Go On" became a global hit, topping the charts in over twenty countries, including Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Italy, the Netherlands, Norway, the Republic of Ireland, Spain, Sweden, Switzerland, the United Kingdom, and the United States
     </string>
-    <style name="Theme.DesignUI" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="title_activity_menu_option">MenuOptionActivity</string>
+    <style name="CustomButton" parent="Widget.Material3.Button">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#FF0000</item>
+        <item name="android:strokeColor">#FF0000</item>
+        <item name="android:padding">15dp</item>
+        <item name="rippleColor">#FFBD5B</item>
+        <item name="cornerRadius">25dp</item>
+    </style>
+    <style name="CustomRadioTheme">
+        <item name="colorAccent">#FF9800</item>
+    </style>
+    <style name="Theme.DesignUI" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>
@@ -34,4 +53,10 @@
         <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
         
     </style>
+    <style name="Theme.DesignUI.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.DesignUI.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.DesignUI.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
 </resources>

@@ -6,6 +6,4 @@
     android:textAppearance="?android:attr/textAppearanceListItemSmall"
     android:gravity="end"
     android:paddingStart="?android:attr/listPreferredItemPaddingStart"
-    android:minHeight="?android:attr/listPreferredItemHeightSmall"
-    >
-</TextView>
+    android:minHeight="?android:attr/listPreferredItemHeightSmall"></TextView>

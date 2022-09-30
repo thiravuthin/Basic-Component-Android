@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/black"
-    tools:context=".TitokConstrainlayoutActivity">
+    tools:context=".layoutConstrain.TikTokConstrainingActivity">
 
     <TextView
         android:id="@+id/textView2"
@@ -18,8 +18,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:pointerIcon="arrow"
-        />
+        android:pointerIcon="arrow" />
 
     <ImageView
         android:id="@+id/imageSwitcher3"

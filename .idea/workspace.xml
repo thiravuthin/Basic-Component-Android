@@ -14,51 +14,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="916bd119-6f5d-4085-9e46-e5f81504fa59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/6bycTqs1s_Zowt2oxkh57r1cHuE=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/FCK4M4G6FT7PGSrcSTYG8U6FLN4=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Tb6AzSufdRj8+kWqjDHETby_+6U=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/swBucRE__WZ9JQab0V2dmaf_lEk=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/y3NekmeRtZ5L+Z0afHgTGSSLos0=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/DateTimePickerActivity$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/DateTimePickerActivity$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/DateTimePickerActivity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/ImageViewActivity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/SpinnerActivity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/SpinnerActivity2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/drawable-v24_ic_vuthin.jpg.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_date_time_picker.xml.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_image_view.xml.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_spinner.xml.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_spinner2.xml.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/drawable-v24/ic_vuthin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_date_time_picker.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_image_view.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_spinner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_spinner2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/DateTimePickerActivity$1.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/DateTimePickerActivity$2.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/DateTimePickerActivity.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/ImageViewActivity.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/SpinnerActivity.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/SpinnerActivity2.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/dddfd7370f379905402a57b8ba78388e901e7fdd967d6bb1b47c6fea02ee00ec_0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/dddfd7370f379905402a57b8ba78388e901e7fdd967d6bb1b47c6fea02ee00ec_1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/dddfd7370f379905402a57b8ba78388e901e7fdd967d6bb1b47c6fea02ee00ec_2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/dddfd7370f379905402a57b8ba78388e901e7fdd967d6bb1b47c6fea02ee00ec_3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/DateTimePickerActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/ImageViewActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/SpinnerActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/SpinnerActivity2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/styles/Shape1_Demo_Activity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_vuthin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_date_time_picker.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_image_view.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_shape1_demo.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_spinner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_spinner2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/2/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/fr_sQlYmN_iuc9F6NEuCoKJ2Ur4=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/animation/TweenAnimationActivity$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/animation/TweenAnimationActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/styles/Shape1Activity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/drawable_my_custom_selector.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/drawable_my_custom_shape.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_animation.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_shape1.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/drawable/my_custom_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/drawable/my_custom_shape.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_animation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_shape1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/animation/TweenAnimationActivity$1.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/animation/TweenAnimationActivity.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/styles/Shape1Activity.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/animation/ContextMenuActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/animation/MenuOptionActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/animation/TweenAnimationActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/chips/ChipActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/customui_radiobtn/RadioButtonActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/fragment/FirstFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/fragment/SecondFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/intent_and_receiver/Main1Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/intent_and_receiver/Main2Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/intent_and_receiver/NetworkStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/intent_and_receiver/Receiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/intent_and_receiver/StudentClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/styles/Shape1Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/trigger/MyProadcaseReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/trigger/NetworkStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/my_custom_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/my_custom_shape.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_animation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_chip.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_context_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_menu_option.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_proadcastresiver.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_radio_button.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_shape1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_first.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_option.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/navigation/nav_graph.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-land/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-w1240dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-w600dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/style.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" afterDir="false" />
@@ -67,20 +75,38 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/apk_ide_redirect_file/debug/redirect.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/apk_ide_redirect_file/debug/redirect.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_0/graph.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_0/graph.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_1/graph.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_1/graph.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_2/graph.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_2/graph.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_3/graph.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_3/graph.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/10/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/10/classes.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/6bycTqs1s_Zowt2oxkh57r1cHuE=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/6bycTqs1s_Zowt2oxkh57r1cHuE=" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/8A0xsAcr4YnD5eReAt6fRqP0_Xk=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/8A0xsAcr4YnD5eReAt6fRqP0_Xk=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Cfzbyi14Z5US7Fd9ZDX_GPMwyK0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/FCK4M4G6FT7PGSrcSTYG8U6FLN4=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/FCK4M4G6FT7PGSrcSTYG8U6FLN4=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/FjmszrgJ6WEi181QqXrUFOYCybo=" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/G+_pw0KYs00DS0h5hhoAW+XEDZY=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/G+_pw0KYs00DS0h5hhoAW+XEDZY=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Hn7Ha4FJACJUmD4dSpWU3W5uatc=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Hn7Ha4FJACJUmD4dSpWU3W5uatc=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/HKENBoaa1pkB08po7+FACCpsRoQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Hn7Ha4FJACJUmD4dSpWU3W5uatc=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Or77p8VzyXKH0cew6xrCgxT2a+I=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Pjulnz0aPd4bIRQqJdtxrfI+cQ0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Tb6AzSufdRj8+kWqjDHETby_+6U=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Tb6AzSufdRj8+kWqjDHETby_+6U=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/myiXUIzKaNZH0Dqwy07e9POc6gk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/q7I4RRrRuSWIY7zlg7Jb6qVDKyE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/swBucRE__WZ9JQab0V2dmaf_lEk=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/swBucRE__WZ9JQab0V2dmaf_lEk=" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/wCxU3hdg0dxzQWvhCcbYLR9FwLQ=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/wCxU3hdg0dxzQWvhCcbYLR9FwLQ=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/y3NekmeRtZ5L+Z0afHgTGSSLos0=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/y3NekmeRtZ5L+Z0afHgTGSSLos0=" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug/mergeDebugResources/compile-file-map.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug/mergeDebugResources/merger.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" afterDir="false" />
@@ -88,17 +114,24 @@
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/Constrain2Activity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/Constrain2Activity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/ConstraintLayoutActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/ConstraintLayoutActivity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/EditextActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/EditextActivity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/FramLayoutActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/FramLayoutActivity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/LoginActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/LoginActivity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/MainActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/Constrain2Activity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/ConstraintLayoutActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/DateTimePickerActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/DateTimePickerActivity$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/DateTimePickerActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/EditextActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/EditextActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/FramLayoutActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/ImageViewActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/LoginActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/MainActivity.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/Method1Activity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/Method1Activity.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/PracticeActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/PracticeActivity$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/PracticeActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/PracticeActivity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/ScrollviewActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/ScrollviewActivity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/TitokConstrainlayoutActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/TitokConstrainlayoutActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/ScrollviewActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/SpinnerActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/SpinnerActivity2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/designui/TitokConstrainlayoutActivity.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/local_only_symbol_list/debug/R-def.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/local_only_symbol_list/debug/R-def.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_java_res/debug/base.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_java_res/debug/base.jar" afterDir="false" />
@@ -109,20 +142,25 @@
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/drawable-v24_facebook.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/drawable-v24_facebook.png.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/drawable-v24_google.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/drawable-v24_google.png.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/drawable-v24_ic_icons8_twitter_circled.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/drawable-v24_ic_icons8_twitter_circled.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/drawable-v24_ic_vuthin.jpg.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/drawable-v24_ic_vuthin.jpg.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/drawable_custom_layout_shape.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/drawable_custom_layout_shape.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/drawable_ic_password_lock_24.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/drawable_ic_password_lock_24.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/drawable_ic_user_edittext_24.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/drawable_ic_user_edittext_24.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_constrain2.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_constrain2.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_constraint_layout.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_constraint_layout.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_date_time_picker.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_date_time_picker.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_editext.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_editext.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_fram_layout.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_fram_layout.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_image_view.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_image_view.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_linearlayout.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_linearlayout.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_login.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_login.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_method1.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_method1.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_practice.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_practice.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_relativelayout.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_relativelayout.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_scrollview.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_scrollview.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_spinner.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_spinner.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_spinner2.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_spinner2.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_titok_constrainlayout.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_activity_titok_constrainlayout.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_mycustom_simpl_list.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/layout_mycustom_simpl_list.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat" afterDir="false" />
@@ -379,32 +417,87 @@
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zu.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zu.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/navigation_json/debug/navigation.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/navigation_json/debug/navigation.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/drawable-v24/ic_icons8_twitter_circled.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/drawable-v24/ic_icons8_twitter_circled.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_constrain2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_constrain2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_constraint_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_constraint_layout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_date_time_picker.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_date_time_picker.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_editext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_editext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_fram_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_fram_layout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_image_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_image_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_linearlayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_linearlayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_scrollview.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_scrollview.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_spinner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_spinner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_spinner2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_spinner2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_titok_constrainlayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/activity_titok_constrainlayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/mycustom_simpl_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/layout/mycustom_simpl_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/values-night-v8/values-night-v8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/values-night-v8/values-night-v8.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/values/values.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/9d35279556f48d17c88e40455f959626ac14244e5e85588e8c40aeaefed33664_0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/9d35279556f48d17c88e40455f959626ac14244e5e85588e8c40aeaefed33664_1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/9d35279556f48d17c88e40455f959626ac14244e5e85588e8c40aeaefed33664_2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/9d35279556f48d17c88e40455f959626ac14244e5e85588e8c40aeaefed33664_3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/Constrain2Activity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/Constrain2Activity.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/ConstraintLayoutActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/ConstraintLayoutActivity.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/EditextActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/EditextActivity.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/FramLayoutActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/FramLayoutActivity.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/LoginActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/LoginActivity.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/MainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/MainActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/BuildConfig.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/BuildConfig.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/Constrain2Activity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/ConstraintLayoutActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/DateTimePickerActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/DateTimePickerActivity$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/DateTimePickerActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/EditextActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/EditextActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/FramLayoutActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/ImageViewActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/LoginActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/MainActivity.dex" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/Method1Activity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/Method1Activity.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/PracticeActivity$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/PracticeActivity$1.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/PracticeActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/PracticeActivity.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/ScrollviewActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/ScrollviewActivity.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/TitokConstrainlayoutActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/TitokConstrainlayoutActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/ScrollviewActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/SpinnerActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/SpinnerActivity2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/designui/TitokConstrainlayoutActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/dddfd7370f379905402a57b8ba78388e901e7fdd967d6bb1b47c6fea02ee00ec_0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/dddfd7370f379905402a57b8ba78388e901e7fdd967d6bb1b47c6fea02ee00ec_1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/dddfd7370f379905402a57b8ba78388e901e7fdd967d6bb1b47c6fea02ee00ec_2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/dddfd7370f379905402a57b8ba78388e901e7fdd967d6bb1b47c6fea02ee00ec_3.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/debug/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/signing_config_versions/debug/signing-config-versions.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/signing_config_versions/debug/signing-config-versions.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/source_set_path_map/debug/file-map.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/source_set_path_map/debug/file-map.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/stable_resource_ids_file/debug/stableIds.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/stable_resource_ids_file/debug/stableIds.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/designui/Constrain2Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/layoutConstrain/Constrain2Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/designui/ConstraintLayoutActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/layoutConstrain/ConstraintLayoutActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/designui/DateTimePickerActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/datetimepicker/DateTimePickerActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/designui/EditextActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/edittext/EditextActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/designui/FramLayoutActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/layoutFrame/FrameLayoutActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/designui/ImageViewActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/images/ImageViewActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/designui/LoginActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/layoutRelative/LoginActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/designui/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/layoutRelative/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/designui/Method1Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/Method1Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/designui/PracticeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/PracticeActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/designui/ScrollviewActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/scrollview/ScrollviewActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/designui/SpinnerActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/spinner/SpinnerActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/designui/SpinnerActivity2.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/spinner/SpinnerActivity2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/designui/TitokConstrainlayoutActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/designui/layoutConstrain/TikTokConstrainingActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_icons8_twitter_circled.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_icons8_twitter_circled.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_constrain2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_constrain2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_constraint_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_constraint_layout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_date_time_picker.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_date_time_picker.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_editext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_editext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_fram_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_fram_layout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_image_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_image_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_linearlayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_linearlayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_scrollview.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_scrollview.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_spinner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_spinner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_spinner2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_spinner2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_titok_constrainlayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_titok_constrainlayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/mycustom_simpl_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/mycustom_simpl_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -438,11 +531,22 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="layoutResourceFile" />
+        <option value="resourceFile" />
+        <option value="valueResourceFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="2E7QDFHBRGDdIcRuKZgX02YQEMg" />
   <component name="ProjectLevelVcsManager">
@@ -461,12 +565,19 @@
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="android.template.389473877">
+      <recent name="com.example.designui.chips" />
+      <recent name="com.example.designui" />
+    </key>
     <key name="android.template.-548660956">
       <recent name="com.example.designui" />
     </key>
@@ -480,13 +591,27 @@
       <recent name="C:\Users\USER\AndroidStudioProjects\my_andiod_projects\My_Design_UI\app\src\main\res\drawable-v24" />
     </key>
     <key name="android.template.831648702">
+      <recent name="com.example.designui" />
       <recent name="com.example.designui.styles" />
+    </key>
+    <key name="android.template.-1352117271">
+      <recent name="com.example.designui" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.designui" />
     </key>
     <key name="android.template.928749563">
       <recent name="com.example.designui" />
     </key>
     <key name="android.template.-1154726849">
       <recent name="com.example.designui" />
+    </key>
+    <key name="android.template.1136879574">
+      <recent name="com.example.designui.intent" />
+    </key>
+    <key name="android.template.-868860607">
+      <recent name="com.example.designui.trigger" />
+      <recent name="com.example.designui.intent" />
     </key>
   </component>
   <component name="RunManager">

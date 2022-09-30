@@ -3,6 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.designui">
 
+    <!-- Add permission here -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
@@ -15,11 +17,24 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DesignUI"
         tools:targetApi="31">
+
+        <!-- Add Receiver -->
+        <receiver
+            android:name=".trigger.MyProadcaseReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+
+                <category android:name="android.net.wifi.WIFI_STATE_CHANGED" />
+            </intent-filter>
+        </receiver>
+
+        <!-- Add Activity -->
         <activity
-            android:name=".Shape1_Demo_Activity"
+            android:name=".intent_and_receiver.Main2Activity"
             android:exported="false" />
         <activity
-            android:name=".ImageViewActivity"
+            android:name=".intent_and_receiver.Main1Activity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -28,43 +43,64 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".DateTimePickerActivity"
+            android:name=".chips.ChipActivity"
             android:exported="true"></activity>
         <activity
-            android:name=".SpinnerActivity2"
+            android:name=".customui_radiobtn.RadioButtonActivity"
             android:exported="true" />
         <activity
-            android:name=".SpinnerActivity"
+            android:name=".animation.ContextMenuActivity"
+            android:exported="true" />
+        <activity
+            android:name=".animation.MenuOptionActivity"
+            android:exported="true" />
+        <activity
+            android:name=".animation.TweenAnimationActivity"
+            android:exported="true" />
+        <activity
+            android:name=".styles.Shape1Activity"
+            android:exported="true" />
+        <activity
+            android:name=".images.ImageViewActivity"
+            android:exported="true" />
+        <activity
+            android:name=".datetimepicker.DateTimePickerActivity"
+            android:exported="true" />
+        <activity
+            android:name=".spinner.SpinnerActivity2"
+            android:exported="true" />
+        <activity
+            android:name=".spinner.SpinnerActivity"
             android:exported="true" />
         <activity
             android:name=".PracticeActivity"
             android:exported="true" />
         <activity
-            android:name=".EditextActivity"
+            android:name=".edittext.EditextActivity"
             android:exported="true" />
         <activity
             android:name=".Method1Activity"
             android:exported="true" />
         <activity
-            android:name=".ScrollviewActivity"
+            android:name=".scrollview.ScrollviewActivity"
             android:exported="true" />
         <activity
-            android:name=".Constrain2Activity"
+            android:name=".layoutConstrain.Constrain2Activity"
             android:exported="true" />
         <activity
-            android:name=".TitokConstrainlayoutActivity"
+            android:name=".layoutConstrain.TikTokConstrainingActivity"
             android:exported="true" />
         <activity
-            android:name=".ConstraintLayoutActivity"
+            android:name=".layoutConstrain.ConstraintLayoutActivity"
             android:exported="true" />
         <activity
-            android:name=".FramLayoutActivity"
+            android:name=".layoutFrame.FrameLayoutActivity"
             android:exported="true" />
         <activity
-            android:name=".LoginActivity"
+            android:name=".layoutRelative.LoginActivity"
             android:exported="true" />
         <activity
-            android:name=".MainActivity"
+            android:name=".layoutRelative.MainActivity"
             android:exported="false" />
     </application>
 

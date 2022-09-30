@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CustomRadioTheme">
+        <item name="colorAccent">#FF9800</item>
+    </style>
+
+    <style name="CustomButton" parent="Widget.Material3.Button">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#FF0000</item>
+        <item name="android:strokeColor">#FF0000</item>
+        <item name="android:padding">15dp</item>
+        <item name="rippleColor">#FFBD5B</item>
+        <item name="cornerRadius">25dp</item>
+    </style>
+</resources>

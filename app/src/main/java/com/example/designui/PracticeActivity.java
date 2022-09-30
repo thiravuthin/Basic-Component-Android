@@ -2,6 +2,7 @@ package com.example.designui;
 
 
 import androidx.appcompat.app.AppCompatActivity;
+
 import android.os.Build;
 import android.os.Bundle;
 import android.text.Editable;
@@ -15,7 +16,7 @@ import org.w3c.dom.Text;
 
 public class PracticeActivity extends AppCompatActivity {
 
-    TextView textViewResult,labelFirst, labelSecond;
+    TextView textViewResult, labelFirst, labelSecond;
     EditText editText1, editText2;
     Button button;
 
@@ -32,24 +33,26 @@ public class PracticeActivity extends AppCompatActivity {
         button = findViewById(R.id.btnSum);
         onSum();
     }
-    void onSum(){
-            button.setOnClickListener(new View.OnClickListener() {
-                int num1;
-                @Override
-                public void onClick(View view) {
-                    if(!editText1.getText().toString().isEmpty() || !editText2.getText().toString().isEmpty()){
-                        int num1=Integer.parseInt(editText1.getText().toString());
-                        int num2=Integer.parseInt(editText2.getText().toString());
-                        int result=num1+num2;
-                        textViewResult.setText(Integer.toString(result));
-                        textViewResult.setVisibility(View.VISIBLE);
-                    }else {
-                        labelFirst.setText ("Number1 is required");
-                        labelFirst.setTextColor(getResources().getColor(R.color.purple_200));
-                        labelSecond.setText("Number2 is required");
-                        textViewResult.setVisibility(View.GONE);
-                    }
+
+    void onSum() {
+        button.setOnClickListener(new View.OnClickListener() {
+            int num1;
+
+            @Override
+            public void onClick(View view) {
+                if (!editText1.getText().toString().isEmpty() || !editText2.getText().toString().isEmpty()) {
+                    int num1 = Integer.parseInt(editText1.getText().toString());
+                    int num2 = Integer.parseInt(editText2.getText().toString());
+                    int result = num1 + num2;
+                    textViewResult.setText(Integer.toString(result));
+                    textViewResult.setVisibility(View.VISIBLE);
+                } else {
+                    labelFirst.setText("Number1 is required");
+                    labelFirst.setTextColor(getResources().getColor(R.color.purple_200));
+                    labelSecond.setText("Number2 is required");
+                    textViewResult.setVisibility(View.GONE);
                 }
-            });
+            }
+        });
     }
 }
