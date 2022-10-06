@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.designui.app-mergeDebugResources-41:/values-land/values-land.xml",
+            "outputFile": "com.example.designui.app-mergeDebugResources-42:/values-land/values-land.xml",
             "map": [
                 {
                     "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\0a1e1205a4ad55603e56c0d69f6f4244\\transformed\\appcompat-1.5.0\\res\\values-land\\values-land.xml",
@@ -33,7 +33,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\USER\\AndroidStudioProjects\\my_andiod_projects\\My_Design_UI\\app\\src\\main\\res\\values-land\\dimens.xml",
+                    "source": "C:\\Users\\USER\\AndroidStudioProjects\\my_andiod_projects\\UIComponent\\app\\src\\main\\res\\values-land\\dimens.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",

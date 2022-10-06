@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.designui.app-mergeDebugResources-41:/values-nb/values-nb.xml",
+            "outputFile": "com.example.designui.app-mergeDebugResources-42:/values-nb/values-nb.xml",
             "map": [
                 {
                     "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\b6f52d92dea29c0a7f49d4078033a89a\\transformed\\material-1.6.1\\res\\values-nb\\values-nb.xml",

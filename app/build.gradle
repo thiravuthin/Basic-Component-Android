@@ -44,6 +44,11 @@ dependencies {
     //image view glide
     implementation 'com.github.bumptech.glide:glide:4.13.2'
 
-    //yoyo animation
+    //Yoyo animation
     implementation 'com.daimajia.androidanimations:library:2.4@aar'
+
+    //Lottie animation
+    implementation 'com.airbnb.android:lottie:3.4.0'
+
+
 }

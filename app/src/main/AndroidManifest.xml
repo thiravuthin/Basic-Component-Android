@@ -2,7 +2,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.designui">
-
     <!-- Add permission here -->
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -18,7 +17,15 @@
         android:theme="@style/Theme.DesignUI"
         tools:targetApi="31">
 
-        <!-- Add Receiver -->
+        <activity
+            android:name=".menu.MenuPopupActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity> <!-- Add Receiver -->
         <receiver
             android:name=".trigger.MyProadcaseReceiver"
             android:exported="true">
@@ -28,80 +35,6 @@
                 <category android:name="android.net.wifi.WIFI_STATE_CHANGED" />
             </intent-filter>
         </receiver>
-
-        <!-- Add Activity -->
-        <activity
-            android:name=".intent_and_receiver.Main2Activity"
-            android:exported="false" />
-        <activity
-            android:name=".intent_and_receiver.Main1Activity"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-        <activity
-            android:name=".chips.ChipActivity"
-            android:exported="true"></activity>
-        <activity
-            android:name=".customui_radiobtn.RadioButtonActivity"
-            android:exported="true" />
-        <activity
-            android:name=".animation.ContextMenuActivity"
-            android:exported="true" />
-        <activity
-            android:name=".animation.MenuOptionActivity"
-            android:exported="true" />
-        <activity
-            android:name=".animation.TweenAnimationActivity"
-            android:exported="true" />
-        <activity
-            android:name=".styles.Shape1Activity"
-            android:exported="true" />
-        <activity
-            android:name=".images.ImageViewActivity"
-            android:exported="true" />
-        <activity
-            android:name=".datetimepicker.DateTimePickerActivity"
-            android:exported="true" />
-        <activity
-            android:name=".spinner.SpinnerActivity2"
-            android:exported="true" />
-        <activity
-            android:name=".spinner.SpinnerActivity"
-            android:exported="true" />
-        <activity
-            android:name=".PracticeActivity"
-            android:exported="true" />
-        <activity
-            android:name=".edittext.EditextActivity"
-            android:exported="true" />
-        <activity
-            android:name=".Method1Activity"
-            android:exported="true" />
-        <activity
-            android:name=".scrollview.ScrollviewActivity"
-            android:exported="true" />
-        <activity
-            android:name=".layoutConstrain.Constrain2Activity"
-            android:exported="true" />
-        <activity
-            android:name=".layoutConstrain.TikTokConstrainingActivity"
-            android:exported="true" />
-        <activity
-            android:name=".layoutConstrain.ConstraintLayoutActivity"
-            android:exported="true" />
-        <activity
-            android:name=".layoutFrame.FrameLayoutActivity"
-            android:exported="true" />
-        <activity
-            android:name=".layoutRelative.LoginActivity"
-            android:exported="true" />
-        <activity
-            android:name=".layoutRelative.MainActivity"
-            android:exported="false" />
     </application>
 
 </manifest>

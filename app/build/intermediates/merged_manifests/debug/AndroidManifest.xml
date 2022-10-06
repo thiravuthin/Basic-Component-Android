@@ -7,7 +7,6 @@
     <uses-sdk
         android:minSdkVersion="21"
         android:targetSdkVersion="32" />
-
     <!-- Add permission here -->
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -22,9 +21,17 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/Theme.DesignUI" >
+        <activity
+            android:name="com.example.designui.menu.MenuPopupActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
-        <!-- Add Receiver -->
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity> <!-- Add Receiver -->
         <receiver
             android:name="com.example.designui.trigger.MyProadcaseReceiver"
             android:exported="true" >
@@ -34,80 +41,6 @@
                 <category android:name="android.net.wifi.WIFI_STATE_CHANGED" />
             </intent-filter>
         </receiver>
-
-        <!-- Add Activity -->
-        <activity
-            android:name="com.example.designui.intent_and_receiver.Main2Activity"
-            android:exported="false" />
-        <activity
-            android:name="com.example.designui.intent_and_receiver.Main1Activity"
-            android:exported="true" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-        <activity
-            android:name="com.example.designui.chips.ChipActivity"
-            android:exported="true" />
-        <activity
-            android:name="com.example.designui.customui_radiobtn.RadioButtonActivity"
-            android:exported="true" />
-        <activity
-            android:name="com.example.designui.animation.ContextMenuActivity"
-            android:exported="true" />
-        <activity
-            android:name="com.example.designui.animation.MenuOptionActivity"
-            android:exported="true" />
-        <activity
-            android:name="com.example.designui.animation.TweenAnimationActivity"
-            android:exported="true" />
-        <activity
-            android:name="com.example.designui.styles.Shape1Activity"
-            android:exported="true" />
-        <activity
-            android:name="com.example.designui.images.ImageViewActivity"
-            android:exported="true" />
-        <activity
-            android:name="com.example.designui.datetimepicker.DateTimePickerActivity"
-            android:exported="true" />
-        <activity
-            android:name="com.example.designui.spinner.SpinnerActivity2"
-            android:exported="true" />
-        <activity
-            android:name="com.example.designui.spinner.SpinnerActivity"
-            android:exported="true" />
-        <activity
-            android:name="com.example.designui.PracticeActivity"
-            android:exported="true" />
-        <activity
-            android:name="com.example.designui.edittext.EditextActivity"
-            android:exported="true" />
-        <activity
-            android:name="com.example.designui.Method1Activity"
-            android:exported="true" />
-        <activity
-            android:name="com.example.designui.scrollview.ScrollviewActivity"
-            android:exported="true" />
-        <activity
-            android:name="com.example.designui.layoutConstrain.Constrain2Activity"
-            android:exported="true" />
-        <activity
-            android:name="com.example.designui.layoutConstrain.TikTokConstrainingActivity"
-            android:exported="true" />
-        <activity
-            android:name="com.example.designui.layoutConstrain.ConstraintLayoutActivity"
-            android:exported="true" />
-        <activity
-            android:name="com.example.designui.layoutFrame.FrameLayoutActivity"
-            android:exported="true" />
-        <activity
-            android:name="com.example.designui.layoutRelative.LoginActivity"
-            android:exported="true" />
-        <activity
-            android:name="com.example.designui.layoutRelative.MainActivity"
-            android:exported="false" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"
