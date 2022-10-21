@@ -26,4 +26,10 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="title_activity_menu">MenuActivity</string>
 
+    <string name="dialog">Welcome to dialog</string>
+    <string name="dialog_title">My alert dialog</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_custom_alert_dialog">CustomAlertDialogActivity</string>
+
 </resources>

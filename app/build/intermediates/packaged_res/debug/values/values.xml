@@ -18,7 +18,10 @@
     <dimen name="fab_margin">16dp</dimen>
     <string name="Select_countries">Select</string>
     <string name="app_name">Design UI</string>
+    <string name="dialog">Welcome to dialog</string>
+    <string name="dialog_title">My alert dialog</string>
     <string name="first_fragment_label">First Fragment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="next">Next</string>
@@ -28,6 +31,7 @@
      Released as a single on November 24, 1997, from Dion's fifth English-language studio album, Let's Talk About Love (1997), and the film's soundtrack, the love power ballad peaked at the top of the RPM Top Singles Chart. Outside Canada, "My Heart Will Go On" became a global hit, topping the charts in over twenty countries, including Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Italy, the Netherlands, Norway, the Republic of Ireland, Spain, Sweden, Switzerland, the United Kingdom, and the United States
     </string>
     <string name="second_fragment_label">Second Fragment</string>
+    <string name="title_activity_custom_alert_dialog">CustomAlertDialogActivity</string>
     <string name="title_activity_menu">MenuActivity</string>
     <string name="title_activity_menu_option">MenuOptionActivity</string>
     <style name="CustomButton" parent="Widget.Material3.Button">

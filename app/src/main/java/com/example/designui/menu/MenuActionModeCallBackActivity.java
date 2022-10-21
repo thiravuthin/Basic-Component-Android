@@ -19,7 +19,7 @@ public class MenuActionModeCallBackActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_menu_action_mode_callback);
+        setContentView(R.layout.menu_action_mode_callback_activity);
 
         btnCallbackActionModeMenu = findViewById(R.id.btnMenuActionModeCallBackID);
 

@@ -1,150 +1,250 @@
 [
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_fram_layout.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_fram_layout.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\layout_constraint_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\layout_constraint_activity.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_shape1.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_shape1.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\scrollview_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\scrollview_activity.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_rotate.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_rotate.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\animation_rotate_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\animation_rotate_activity.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_scrollview.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_scrollview.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\fragment_tap_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\fragment_tap_activity.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_lottie.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_lottie.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\fragment_static_b.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\fragment_static_b.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_constraint_layout.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_constraint_layout.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\chip_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\chip_activity.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_menutest1.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_menutest1.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\menutest1_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\menutest1_activity.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_main2.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_main2.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\fragment_tag_one.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\fragment_tag_one.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_menu_action_mode_callback.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_menu_action_mode_callback.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\layout_relative_login_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\layout_relative_login_activity.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\fragment_first2.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\fragment_first2.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\recyclerview_cart_custom.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\recyclerview_cart_custom.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_proadcastresiver.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_proadcastresiver.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\fragment_tag_three.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\fragment_tag_three.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\content_menu.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\content_menu.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\proadcast_resiver_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\proadcast_resiver_activity.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\mycustom_simpl_list.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\mycustom_simpl_list.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\spinner2_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\spinner2_activity.xml"
     },
     {
-        "merged": "com.example.designui.app-mergeDebugResources-43:/layout/activity_menu_popup.xml",
-        "source": "com.example.designui.app-main-46:/layout/activity_menu_popup.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\chip_choice_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\chip_choice_activity.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_menu.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_menu.xml"
+        "merged": "com.example.designui.app-mergeDebugResources-43:/layout/auto_complete_textview_activity.xml",
+        "source": "com.example.designui.app-main-46:/layout/auto_complete_textview_activity.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_image_view.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_image_view.xml"
+        "merged": "com.example.designui.app-mergeDebugResources-43:/layout/layout_constrain_practice_activity.xml",
+        "source": "com.example.designui.app-main-46:/layout/layout_constrain_practice_activity.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\fragment_second2.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\fragment_second2.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\menu_content.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\menu_content.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_intent1.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_intent1.xml"
+        "merged": "com.example.designui.app-mergeDebugResources-43:/layout/layout_constraint_activity.xml",
+        "source": "com.example.designui.app-main-46:/layout/layout_constraint_activity.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\fragment_second.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\fragment_second.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\fragment_tag_two.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\fragment_tag_two.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_method1.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_method1.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\intent1_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\intent1_activity.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_menu_floating_context.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_menu_floating_context.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\editext_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\editext_activity.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_spinner2.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_spinner2.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\my_custom_simpl_list.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\my_custom_simpl_list.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_date_time_picker.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_date_time_picker.xml"
+        "merged": "com.example.designui.app-mergeDebugResources-43:/layout/layout_constrain_tictok_activity.xml",
+        "source": "com.example.designui.app-main-46:/layout/layout_constrain_tictok_activity.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_login.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_login.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\dialog_custom_alert_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\dialog_custom_alert_activity.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_chip.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_chip.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\layout_relative_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\layout_relative_activity.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_menu_option.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_menu_option.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\chip_filter_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\chip_filter_activity.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_animation.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_animation.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\layout_constrain_tictok_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\layout_constrain_tictok_activity.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_titok_constrainlayout.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_titok_constrainlayout.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\picker_date_time_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\picker_date_time_activity.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_relativelayout.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_relativelayout.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\menu_action_mode_callback_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\menu_action_mode_callback_activity.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\fragment_first.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\fragment_first.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\fragment_dynamic_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\fragment_dynamic_activity.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_spinner.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_spinner.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\fragment_dynamic_b.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\fragment_dynamic_b.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_linearlayout.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_linearlayout.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\menu_option_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\menu_option_activity.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_radio_button.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_radio_button.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\shape_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\shape_activity.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_editext.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_editext.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\menu_floating_context_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\menu_floating_context_activity.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_practice.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_practice.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\content_custom_alert_dialog.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\content_custom_alert_dialog.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_constrain2.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_constrain2.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\resiver_main2_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\resiver_main2_activity.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_context_menu.xml",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_context_menu.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\recycler_view1_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\recycler_view1_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\chip_entry_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\chip_entry_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\animation_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\animation_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\animation_lottie_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\animation_lottie_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\chip_defualt_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\chip_defualt_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\fragment_dynamic_a.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\fragment_dynamic_a.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\layout_linear_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\layout_linear_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\chip__action_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\chip__action_activity.xml"
+    },
+    {
+        "merged": "com.example.designui.app-mergeDebugResources-43:/layout/layout_constrain2_activity.xml",
+        "source": "com.example.designui.app-main-46:/layout/layout_constrain2_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\menu_context_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\menu_context_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\notification_demo1_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\notification_demo1_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\dioalog_custom.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\dioalog_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\spinner_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\spinner_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\dialog_alert_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\dialog_alert_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\fragment_static_a.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\fragment_static_a.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\dialog_alert_custom.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\dialog_alert_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\auto_complete_textview_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\auto_complete_textview_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\layout_constrain2_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\layout_constrain2_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\layout_frame_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\layout_frame_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\image_view_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\image_view_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\menu_popup_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\menu_popup_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\layout_constrain_practice_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\layout_constrain_practice_activity.xml"
+    },
+    {
+        "merged": "com.example.designui.app-mergeDebugResources-43:/layout/recyclerview_cart_custom.xml",
+        "source": "com.example.designui.app-main-46:/layout/recyclerview_cart_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\menu_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\menu_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\fragment_static_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\fragment_static_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\radio_button_activity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\radio_button_activity.xml"
     }
 ]

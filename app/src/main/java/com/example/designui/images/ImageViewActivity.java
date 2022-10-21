@@ -14,7 +14,7 @@ public class ImageViewActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_image_view);
+        setContentView(R.layout.image_view_activity);
 
         imageView = findViewById(R.id.img1);
 

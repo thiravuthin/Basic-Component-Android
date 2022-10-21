@@ -18,7 +18,7 @@ public class MenuOptionActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_menu_option);
+        setContentView(R.layout.menu_option_activity);
 
     }
 

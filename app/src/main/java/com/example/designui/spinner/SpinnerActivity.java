@@ -13,7 +13,7 @@ public class SpinnerActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_spinner);
+        setContentView(R.layout.spinner_activity);
 
         Spinner spinner = findViewById(R.id.sn_id);
         ArrayAdapter<CharSequence> arrayAdapter = ArrayAdapter.createFromResource(

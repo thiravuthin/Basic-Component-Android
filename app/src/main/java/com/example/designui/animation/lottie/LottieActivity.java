@@ -1,10 +1,7 @@
 package com.example.designui.animation.lottie;
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.animation.Animator;
-import android.animation.AnimatorListenerAdapter;
 import android.os.Bundle;
-import android.view.View;
 
 import com.airbnb.lottie.LottieAnimationView;
 import com.example.designui.R;
@@ -15,7 +12,7 @@ public class LottieActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_lottie);
+        setContentView(R.layout.animation_lottie_activity);
 
         LottieAnimationView lottieAnimationView = findViewById(R.id.animaLottieID);
 //play animation

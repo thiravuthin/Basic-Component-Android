@@ -9,7 +9,6 @@ import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
-import android.widget.Toast;
 
 import com.example.designui.R;
 
@@ -20,7 +19,7 @@ public class MenuFloatingContextActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_menu_floating_context);
+        setContentView(R.layout.menu_floating_context_activity);
 
         button = findViewById(R.id.btnContextMenuID);
         registerForContextMenu(button);

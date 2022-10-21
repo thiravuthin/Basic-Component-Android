@@ -17,7 +17,7 @@ public class MenuPopupActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_menu_popup);
+        setContentView(R.layout.menu_popup_activity);
 
         btnPopupMenu = findViewById(R.id.btnPopupMenuId);
         btnPopupMenu.setOnClickListener(new View.OnClickListener() {

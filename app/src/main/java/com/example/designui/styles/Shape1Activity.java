@@ -14,7 +14,7 @@ public class Shape1Activity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_shape1);
+        setContentView(R.layout.shape_activity);
 
         button = findViewById(R.id.buttonTest);
 

@@ -30,7 +30,7 @@ public class DateTimePickerActivity extends AppCompatActivity implements View.On
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_date_time_picker);
+        setContentView(R.layout.picker_date_time_activity);
 
         edtDate = findViewById(R.id.editText1);
         edtTime = findViewById(R.id.editText2);

@@ -11,6 +11,6 @@ public class ScrollviewActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_scrollview);
+        setContentView(R.layout.scrollview_activity);
     }
 }

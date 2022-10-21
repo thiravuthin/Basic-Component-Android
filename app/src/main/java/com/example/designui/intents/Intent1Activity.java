@@ -5,7 +5,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
-import android.view.View;
 import android.widget.Button;
 
 import com.example.designui.R;
@@ -15,7 +14,7 @@ public class Intent1Activity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_intent1);
+        setContentView(R.layout.intent1_activity);
 
         Button btnDial = findViewById(R.id.btnDialID);
         Button btnOpen = findViewById(R.id.btnOpenID);

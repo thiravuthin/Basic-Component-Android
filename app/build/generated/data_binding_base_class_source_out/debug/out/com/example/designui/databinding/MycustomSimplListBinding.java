@@ -12,14 +12,14 @@ import com.example.designui.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
 
-public final class MycustomSimplListBinding implements ViewBinding {
+public final class MyCustomSimplListBinding implements ViewBinding {
   @NonNull
   private final TextView rootView;
 
   @NonNull
   public final TextView txtvuthin;
 
-  private MycustomSimplListBinding(@NonNull TextView rootView, @NonNull TextView txtvuthin) {
+  private MyCustomSimplListBinding(@NonNull TextView rootView, @NonNull TextView txtvuthin) {
     this.rootView = rootView;
     this.txtvuthin = txtvuthin;
   }
@@ -31,14 +31,14 @@ public final class MycustomSimplListBinding implements ViewBinding {
   }
 
   @NonNull
-  public static MycustomSimplListBinding inflate(@NonNull LayoutInflater inflater) {
+  public static MyCustomSimplListBinding inflate(@NonNull LayoutInflater inflater) {
     return inflate(inflater, null, false);
   }
 
   @NonNull
-  public static MycustomSimplListBinding inflate(@NonNull LayoutInflater inflater,
+  public static MyCustomSimplListBinding inflate(@NonNull LayoutInflater inflater,
       @Nullable ViewGroup parent, boolean attachToParent) {
-    View root = inflater.inflate(R.layout.mycustom_simpl_list, parent, false);
+    View root = inflater.inflate(R.layout.my_custom_simpl_list, parent, false);
     if (attachToParent) {
       parent.addView(root);
     }
@@ -46,13 +46,13 @@ public final class MycustomSimplListBinding implements ViewBinding {
   }
 
   @NonNull
-  public static MycustomSimplListBinding bind(@NonNull View rootView) {
+  public static MyCustomSimplListBinding bind(@NonNull View rootView) {
     if (rootView == null) {
       throw new NullPointerException("rootView");
     }
 
     TextView txtvuthin = (TextView) rootView;
 
-    return new MycustomSimplListBinding((TextView) rootView, txtvuthin);
+    return new MyCustomSimplListBinding((TextView) rootView, txtvuthin);
   }
 }

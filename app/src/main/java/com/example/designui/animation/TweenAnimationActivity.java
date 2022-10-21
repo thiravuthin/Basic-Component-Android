@@ -1,10 +1,8 @@
 package com.example.designui.animation;
 
-import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-import android.view.Menu;
 import android.view.View;
 import android.widget.Button;
 
@@ -17,7 +15,7 @@ public class TweenAnimationActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_animation);
+        setContentView(R.layout.animation_activity);
 //Style 1
 //         findViewById(R.id.btnPlayAnimation).setOnClickListener(new View.OnClickListener() {
 //            @Override

@@ -24,14 +24,15 @@
         android:testOnly="true"
         android:theme="@style/Theme.DesignUI" >
         <activity
-            android:name="com.example.designui.menu.MenuPopupActivity"
+            android:name="com.example.designui.notification.NotificationActivityDemo"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity> <!-- Add Receiver -->
+        </activity>
+        <!-- Add Receiver -->
         <receiver
             android:name="com.example.designui.trigger.MyProadcaseReceiver"
             android:exported="true" >

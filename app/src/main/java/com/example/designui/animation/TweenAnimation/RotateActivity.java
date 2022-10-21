@@ -14,7 +14,7 @@ public class RotateActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_rotate);
+        setContentView(R.layout.animation_rotate_activity);
 
         ImageView imageView = findViewById(R.id.imgRotateID);
         Animation animation = AnimationUtils.loadAnimation(this,R.anim.my_rotate);

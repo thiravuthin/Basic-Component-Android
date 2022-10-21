@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".chipsAndChipGroup.FilterChipActivity">
+
+    <TextView
+        android:id="@+id/txtTitleSingleSelectID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="Filter Chip Single Select"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+<!--Chip Group we think about selection : single select or multiple select -->
+    // single line : true
+    // single selection : true
+<!--Chip in chip group we think about style : Which style that we ues style has 5 -->
+    // Filter ,
+
+    <com.google.android.material.chip.ChipGroup
+        android:id="@+id/chipGroupFilterSingleSelectID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtTitleSingleSelectID">
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/filter1ID"
+            style="@style/Widget.MaterialComponents.Chip.Filter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Filter1" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/filter2ID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Filter2" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/filter3ID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Filter3" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/filter4ID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Filter4" />
+
+    </com.google.android.material.chip.ChipGroup>
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Filter Chip Multiple Select"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:layout_marginTop="200dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/chipGroupFilterSingleSelectID" />
+
+    <com.google.android.material.chip.ChipGroup
+        android:id="@+id/chipGroupFilterMultipleSelectID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView21">
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/filter5ID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Filter5" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/filter6ID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Filter6" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/filter7ID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Filter7" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/filter8ID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Filter8" />
+
+    </com.google.android.material.chip.ChipGroup>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -22,7 +22,7 @@ public class EditextActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_editext);
+        setContentView(R.layout.editext_activity);
 
         editText = findViewById(R.id.et1);
         button = findViewById(R.id.btn1);

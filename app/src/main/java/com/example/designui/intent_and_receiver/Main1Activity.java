@@ -18,7 +18,7 @@ public class Main1Activity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_proadcastresiver);
+        setContentView(R.layout.proadcast_resiver_activity);
 
         button1 = findViewById(R.id.btn1);
         button2 = findViewById(R.id.bnt2);
