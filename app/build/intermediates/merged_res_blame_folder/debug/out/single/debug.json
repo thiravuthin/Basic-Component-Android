@@ -4,16 +4,24 @@
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\notification_demo1_activity.xml"
     },
     {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_layout_relative_login_activity.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\layout_relative_login_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_layout_frame_activity.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\layout_frame_activity.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_menu_content.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\menu_content.xml"
     },
     {
-        "merged": "com.example.designui.app-merged_res-44:/layout_auto_complete_textview_activity.xml.flat",
-        "source": "com.example.designui.app-main-46:/layout/auto_complete_textview_activity.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_layout_frame_activity.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\layout_frame_activity.xml"
     },
     {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\drawable_my_custom_shape.xml.flat",
@@ -24,20 +32,40 @@
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\drawable-v24_ic_icons8_twitter_circled.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\drawable-v24\\ic_icons8_twitter_circled.xml"
+        "merged": "com.example.designui.app-merged_res-44:/layout_activity_apiactivity2.xml.flat",
+        "source": "com.example.designui.app-main-46:/layout/activity_apiactivity2.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_chip__action_activity.xml.flat",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\chip__action_activity.xml"
     },
     {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\drawable-v24_ic_icons8_twitter_circled.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\drawable-v24\\ic_icons8_twitter_circled.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_dialog_custom_alert_activity.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\dialog_custom_alert_activity.xml"
+    },
+    {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\drawable-v24_ic_vuthin.jpg.flat",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\drawable-v24\\ic_vuthin.jpg"
     },
     {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\menu_menu_floating_context.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\menu\\menu_floating_context.xml"
+    },
+    {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_dioalog_custom.xml.flat",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\dioalog_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_proadcast_resiver_activity.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\proadcast_resiver_activity.xml"
     },
     {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_recyclerview_cart_custom.xml.flat",
@@ -48,8 +76,16 @@
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\xml\\backup_rules.xml"
     },
     {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_content_custom_alert_dialog.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\content_custom_alert_dialog.xml"
+    },
+    {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_fragment_tag_three.xml.flat",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\fragment_tag_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_animation_lottie_activity.xml.flat",
@@ -64,6 +100,14 @@
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\menu\\menu1.xml"
     },
     {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\drawable_custom_layout_shape.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\drawable\\custom_layout_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_intent1_activity.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\intent1_activity.xml"
+    },
+    {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_layout_relative_activity.xml.flat",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\layout_relative_activity.xml"
     },
@@ -72,12 +116,16 @@
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\chip_entry_activity.xml"
     },
     {
-        "merged": "com.example.designui.app-merged_res-44:/layout_layout_constrain_practice_activity.xml.flat",
-        "source": "com.example.designui.app-main-46:/layout/layout_constrain_practice_activity.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\drawable-v24_google.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\drawable-v24\\google.png"
     },
     {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_chip_filter_activity.xml.flat",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\chip_filter_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_picker_date_time_activity.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\picker_date_time_activity.xml"
     },
     {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_fragment_dynamic_activity.xml.flat",
@@ -92,8 +140,8 @@
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\resiver_main2_activity.xml"
     },
     {
-        "merged": "com.example.designui.app-merged_res-44:/layout_layout_constrain_tictok_activity.xml.flat",
-        "source": "com.example.designui.app-main-46:/layout/layout_constrain_tictok_activity.xml"
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_recycler_view1_activity.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\recycler_view1_activity.xml"
     },
     {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\anim_my_rotate.xml.flat",
@@ -108,12 +156,40 @@
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\drawable-v24\\background.jpg"
     },
     {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_fragment_dynamic_a.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\fragment_dynamic_a.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\raw_delivering_pizzas.json.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\raw\\delivering_pizzas.json"
+    },
+    {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_animation_activity.xml.flat",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\animation_activity.xml"
     },
     {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_layout_constraint_activity.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\layout_constraint_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_menu_context_activity.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\menu_context_activity.xml"
+    },
+    {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_fragment_tag_two.xml.flat",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\fragment_tag_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_chip_choice_activity.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\chip_choice_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\drawable_ic_user_edittext_24.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\drawable\\ic_user_edittext_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_menu_floating_context_activity.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\menu_floating_context_activity.xml"
     },
     {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_chip_defualt_activity.xml.flat",
@@ -122,6 +198,10 @@
     {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_menu_activity.xml.flat",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\menu_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_radio_button_activity.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\radio_button_activity.xml"
     },
     {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
@@ -136,12 +216,12 @@
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\menu\\menu_option.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_my_custom_simpl_list.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\my_custom_simpl_list.xml"
-    },
-    {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_layout_constrain_tictok_activity.xml.flat",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\layout_constrain_tictok_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_my_custom_simpl_list.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\my_custom_simpl_list.xml"
     },
     {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_fragment_static_activity.xml.flat",
@@ -152,24 +232,68 @@
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\spinner_activity.xml"
     },
     {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_fragment_tap_activity.xml.flat",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\fragment_tap_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_activity_apiactivity.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_apiactivity.xml"
     },
     {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\raw_lemon_switch.json.flat",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\raw\\lemon_switch.json"
     },
     {
+        "merged": "com.example.designui.app-merged_res-44:/layout_recycler_view1_activity.xml.flat",
+        "source": "com.example.designui.app-main-46:/layout/recycler_view1_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_chip_activity.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\chip_activity.xml"
+    },
+    {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_fragment_tag_one.xml.flat",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\fragment_tag_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\navigation_nav_graph3.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\navigation\\nav_graph3.xml"
     },
     {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\drawable_ic_password_lock_24.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\drawable\\ic_password_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_editext_activity.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\editext_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_fragment_static_a.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\fragment_static_a.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_spinner2_activity.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\spinner2_activity.xml"
+    },
+    {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_menu_action_mode_callback_activity.xml.flat",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\menu_action_mode_callback_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_auto_complete_textview_activity.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\auto_complete_textview_activity.xml"
     },
     {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_scrollview_activity.xml.flat",
@@ -192,12 +316,28 @@
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\drawable-v24\\facebook.png"
     },
     {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\navigation_nav_graph2.xml.flat",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\navigation\\nav_graph2.xml"
     },
     {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\mipmap-mdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_fragment_dynamic_b.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\fragment_dynamic_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_menutest1_activity.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\menutest1_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_menu_popup_activity.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\menu_popup_activity.xml"
     },
     {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_dialog_alert_custom.xml.flat",
@@ -220,171 +360,19 @@
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\layout_linear_activity.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_fragment_static_b.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\fragment_static_b.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_menu_option_activity.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\menu_option_activity.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_layout_relative_login_activity.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\layout_relative_login_activity.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\mipmap-anydpi-v26\\ic_launcher.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_menu_content.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\menu_content.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\mipmap-xhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_dialog_custom_alert_activity.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\dialog_custom_alert_activity.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\menu_menu_floating_context.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\menu\\menu_floating_context.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_proadcast_resiver_activity.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\proadcast_resiver_activity.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_content_custom_alert_dialog.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\content_custom_alert_dialog.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\mipmap-mdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.designui.app-merged_res-44:/layout_layout_constrain2_activity.xml.flat",
-        "source": "com.example.designui.app-main-46:/layout/layout_constrain2_activity.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\drawable_custom_layout_shape.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\drawable\\custom_layout_shape.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_intent1_activity.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\intent1_activity.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\drawable-v24_google.png.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\drawable-v24\\google.png"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_picker_date_time_activity.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\picker_date_time_activity.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_recycler_view1_activity.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\recycler_view1_activity.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_fragment_dynamic_a.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\fragment_dynamic_a.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\raw_delivering_pizzas.json.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\raw\\delivering_pizzas.json"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_layout_constraint_activity.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\layout_constraint_activity.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_menu_context_activity.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\menu_context_activity.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_chip_choice_activity.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\chip_choice_activity.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\drawable_ic_user_edittext_24.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\drawable\\ic_user_edittext_24.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_menu_floating_context_activity.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\menu_floating_context_activity.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_radio_button_activity.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\radio_button_activity.xml"
-    },
-    {
-        "merged": "com.example.designui.app-merged_res-44:/layout_recyclerview_cart_custom.xml.flat",
-        "source": "com.example.designui.app-main-46:/layout/recyclerview_cart_custom.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\mipmap-hdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_chip_activity.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\chip_activity.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\navigation_nav_graph3.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\navigation\\nav_graph3.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\drawable_ic_password_lock_24.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\drawable\\ic_password_lock_24.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_editext_activity.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\editext_activity.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_spinner2_activity.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\spinner2_activity.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_fragment_static_a.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\fragment_static_a.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\mipmap-xxhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_auto_complete_textview_activity.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\auto_complete_textview_activity.xml"
-    },
-    {
-        "merged": "com.example.designui.app-merged_res-44:/layout_layout_constraint_activity.xml.flat",
-        "source": "com.example.designui.app-main-46:/layout/layout_constraint_activity.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_fragment_dynamic_b.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\fragment_dynamic_b.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_menutest1_activity.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\menutest1_activity.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_menu_popup_activity.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\menu_popup_activity.xml"
-    },
-    {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\drawable_ic_launcher_background.xml.flat",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\drawable\\ic_launcher_background.xml"
     },
     {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\navigation_nav_graph.xml.flat",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_fragment_static_b.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\fragment_static_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-merged_res-44:\\layout_menu_option_activity.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\menu_option_activity.xml"
     }
 ]

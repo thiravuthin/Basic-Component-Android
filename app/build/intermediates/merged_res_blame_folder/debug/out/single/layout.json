@@ -12,6 +12,10 @@
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\animation_rotate_activity.xml"
     },
     {
+        "merged": "com.example.designui.app-mergeDebugResources-43:/layout/activity_apiactivity2.xml",
+        "source": "com.example.designui.app-main-46:/layout/activity_apiactivity2.xml"
+    },
+    {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\fragment_tap_activity.xml",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\fragment_tap_activity.xml"
     },
@@ -56,20 +60,8 @@
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\chip_choice_activity.xml"
     },
     {
-        "merged": "com.example.designui.app-mergeDebugResources-43:/layout/auto_complete_textview_activity.xml",
-        "source": "com.example.designui.app-main-46:/layout/auto_complete_textview_activity.xml"
-    },
-    {
-        "merged": "com.example.designui.app-mergeDebugResources-43:/layout/layout_constrain_practice_activity.xml",
-        "source": "com.example.designui.app-main-46:/layout/layout_constrain_practice_activity.xml"
-    },
-    {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\menu_content.xml",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\menu_content.xml"
-    },
-    {
-        "merged": "com.example.designui.app-mergeDebugResources-43:/layout/layout_constraint_activity.xml",
-        "source": "com.example.designui.app-main-46:/layout/layout_constraint_activity.xml"
     },
     {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\fragment_tag_two.xml",
@@ -86,10 +78,6 @@
     {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\my_custom_simpl_list.xml",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\my_custom_simpl_list.xml"
-    },
-    {
-        "merged": "com.example.designui.app-mergeDebugResources-43:/layout/layout_constrain_tictok_activity.xml",
-        "source": "com.example.designui.app-main-46:/layout/layout_constrain_tictok_activity.xml"
     },
     {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\dialog_custom_alert_activity.xml",
@@ -114,6 +102,10 @@
     {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\menu_action_mode_callback_activity.xml",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\menu_action_mode_callback_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\activity_apiactivity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\activity_apiactivity.xml"
     },
     {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\fragment_dynamic_activity.xml",
@@ -176,10 +168,6 @@
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\chip__action_activity.xml"
     },
     {
-        "merged": "com.example.designui.app-mergeDebugResources-43:/layout/layout_constrain2_activity.xml",
-        "source": "com.example.designui.app-main-46:/layout/layout_constrain2_activity.xml"
-    },
-    {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\menu_context_activity.xml",
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\menu_context_activity.xml"
     },
@@ -232,8 +220,8 @@
         "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-main-46:\\layout\\layout_constrain_practice_activity.xml"
     },
     {
-        "merged": "com.example.designui.app-mergeDebugResources-43:/layout/recyclerview_cart_custom.xml",
-        "source": "com.example.designui.app-main-46:/layout/recyclerview_cart_custom.xml"
+        "merged": "com.example.designui.app-mergeDebugResources-43:/layout/recycler_view1_activity.xml",
+        "source": "com.example.designui.app-main-46:/layout/recycler_view1_activity.xml"
     },
     {
         "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.example.designui.app-mergeDebugResources-43:\\layout\\menu_activity.xml",

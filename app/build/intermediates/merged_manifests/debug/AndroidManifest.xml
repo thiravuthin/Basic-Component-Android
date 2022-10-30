@@ -8,7 +8,6 @@
         android:minSdkVersion="21"
         android:targetSdkVersion="32" />
     <!-- Add permission here -->
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
@@ -24,15 +23,14 @@
         android:testOnly="true"
         android:theme="@style/Theme.DesignUI" >
         <activity
-            android:name="com.example.designui.notification.NotificationActivityDemo"
+            android:name="com.example.designui.API_retrofit.APIActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
-        <!-- Add Receiver -->
+        </activity> <!-- Add Receiver -->
         <receiver
             android:name="com.example.designui.trigger.MyProadcaseReceiver"
             android:exported="true" >

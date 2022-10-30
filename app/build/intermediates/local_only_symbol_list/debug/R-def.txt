@@ -176,6 +176,8 @@ id txtUsername
 id txttext
 id txtvuthin
 id viewPapger2ID
+layout activity_apiactivity
+layout activity_apiactivity2
 layout animation_activity
 layout animation_lottie_activity
 layout animation_rotate_activity
